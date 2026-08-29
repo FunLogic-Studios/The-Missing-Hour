@@ -10,7 +10,7 @@ A narrative-driven detective investigation game where **you listen, examine, con
 
 <br>
 
-[**Download v1.0.0**](../../releases/latest) · [Report a Bug](../../issues/new/choose)
+[**Download v1.0.0**](https://github.com/FunLogic-Studios/The-Missing-Hour/releases/download/v1.0.0/The-Missing-Hour-setup.zip) · [Report a Bug](../../issues/new/choose)
 
 </div>
 
